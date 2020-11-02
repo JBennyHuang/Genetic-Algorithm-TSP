@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Genetic-Algorithm-TSP/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Genetic-Algorithm-TSP/static/js/main.a034ae5e.chunk.js",
+    "main.js.map": "/Genetic-Algorithm-TSP/static/js/main.a034ae5e.chunk.js.map",
+    "runtime-main.js": "/Genetic-Algorithm-TSP/static/js/runtime-main.4dc31932.js",
+    "runtime-main.js.map": "/Genetic-Algorithm-TSP/static/js/runtime-main.4dc31932.js.map",
+    "static/js/2.428bd2f4.chunk.js": "/Genetic-Algorithm-TSP/static/js/2.428bd2f4.chunk.js",
+    "static/js/2.428bd2f4.chunk.js.map": "/Genetic-Algorithm-TSP/static/js/2.428bd2f4.chunk.js.map",
+    "static/js/3.8bd7bc47.chunk.js": "/Genetic-Algorithm-TSP/static/js/3.8bd7bc47.chunk.js",
+    "static/js/3.8bd7bc47.chunk.js.map": "/Genetic-Algorithm-TSP/static/js/3.8bd7bc47.chunk.js.map",
+    "index.html": "/Genetic-Algorithm-TSP/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Genetic-Algorithm-TSP/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.428bd2f4.chunk.js.LICENSE.txt": "/Genetic-Algorithm-TSP/static/js/2.428bd2f4.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Genetic-Algorithm-TSP/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dc31932.js",
+    "static/js/2.428bd2f4.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a034ae5e.chunk.js"
+  ]
+}
